@@ -1,0 +1,6 @@
+.vscode/
+*__pycache__/
+your_instagram_activity/
+statistics/
+*.zip
+output.png
